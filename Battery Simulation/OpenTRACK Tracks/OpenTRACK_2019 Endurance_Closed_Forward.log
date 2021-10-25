@@ -1,0 +1,90 @@
+_______                    ____________________________________ __
+__  __ \______________________  __/__  __ \__    |_  ____/__  //_/
+_  / / /__  __ \  _ \_  __ \_  /  __  /_/ /_  /| |  /    __  ,<   
+/ /_/ /__  /_/ /  __/  / / /  /   _  _, _/_  ___ / /___  _  /| |  
+\____/ _  .___/\___//_/ /_//_/    /_/ |_| /_/  |_\____/  /_/ |_|  
+       /_/                                                        
+==================================================================
+2019_Endurance.xlsx
+File read successfully
+==================================================================
+Name:          2019 Endurance
+City:          Detroit
+Country:       USA
+Type:          Permanent
+Configuration: Closed
+Direction:     Forward
+Mirror:        Off
+Date:          20/10/2021
+Time:          12:39:59
+==================================================================
+Track generation started.
+Pre-processing completed.
+Fine meshing completed with mesh size: 1 [m]
+Apex calculation completed.
+Track rotated.
+Closing fine mesh map.
+Fine mesh map closed.
+Fine mesh map created.
+Plots created and saved.
+Track generated successfully.
+Map:
+                                ooooooo                            
+                               oo     oooooooooo                   
+                              oo             ooo                   
+                              o           oooo                     
+                             oo         ooo                        
+                            oo          o                          
+                           oo          oo                          
+                          oo          oo                           
+                         oo          oo                            
+                        oo          oo                             
+                    ooooo           o                              
+                 oooo               o                              
+               ooo                  o                              
+              oo                    o                              
+            ooo                     oo                             
+           oo                        o                             
+         ooo                         oo                            
+        oo                            o                            
+       oo                             oo                           
+     oo                                o                           
+    oo                                 oo                          
+   oo                                   oo                         
+   o                                     o     ooooooooooo         
+   o                                     ooooooo       oo          
+  oo                                                  oo           
+  o                                                  oo            
+ oo                                                  o             
+ o                                                  oo             
+ o                                                  oooo           
+o                                                      oooo    ooo 
+o                                                         oooooo oo
+o                                                                oo
+o                                                              ooo 
+oo                                                          oooo   
+ oo                                                       ooo      
+  o                                                      oo        
+  oo                                                     oo        
+   ooo  oo                                                oo       
+     ooooo                                                 oo      
+         o                                                 o       
+         o                                                oo       
+         o                                               oo        
+         o                                               oo        
+         oo                                               ooooo    
+          o oooo                                             oo    
+          o o  ooo                                          oo     
+           oo    ooo                                       oo      
+                   oo                                     oo       
+                    oo                                   oo        
+                    oo                                  oo         
+                   oo                                  oo          
+                   oo                                 oo           
+                    oo                               oo            
+                      ooooo                         oo             
+                          oooooooooooooo            oo             
+                                       ooo           o             
+                                         ooo      o oo             
+                                           oo   ooooo              
+                                            ooooo                  
