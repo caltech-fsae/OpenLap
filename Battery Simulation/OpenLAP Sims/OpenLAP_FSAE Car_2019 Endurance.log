@@ -7,8 +7,8 @@ _  / / /__  __ \  _ \_  __ \_  / __  /| |_  /_/ /
 =================================================
 Vehicle: FSAE Car
 Track:   2019 Endurance
-Date:    20/10/2021
-Time:    12:40:09
+Date:    25/10/2021
+Time:    00:12:14
 =================================================
 Simulation started.
 Maximum speed calculated at all points.
@@ -2458,7 +2458,7 @@ ________________________________________________
      84	     17	      2	   16.0	 114.99	 115.45
 ________________________________________________
 Velocity profile calculated successfully.
-Solver time is: 1.048934 [s]
+Solver time is: 0.850451 [s]
 Post-processing initialised.
 Correct solution selected from modes.
 Laptime calculated.
@@ -2476,4 +2476,4 @@ Sector   1: 101.768 [s]
 Plots created and saved.
 Export initialised.
 Exported .csv file successfully.
-Elapsed time is: 5.643463 [s]
+Elapsed time is: 4.773222 [s]
