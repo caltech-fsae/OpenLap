@@ -16,7 +16,7 @@ Configuration: Closed
 Direction:     Forward
 Mirror:        Off
 Date:          25/10/2021
-Time:          00:12:09
+Time:          12:26:47
 ==================================================================
 Track generation started.
 Pre-processing completed.
@@ -26,6 +26,22 @@ Track rotated.
 Closing fine mesh map.
 Fine mesh map closed.
 Fine mesh map created.
+[Warning: Error occurred while executing the listener callback for event PreUpdate defined
+for class matlab.graphics.primitive.canvas.JavaCanvas:
+Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('subplotlayout')" style="font-weight:bold">subplotlayout</a>
+Attempt to start an update traversal on a SceneViewer that is already processing an
+update traversal
+
+Error in matlab.graphics.internal.SubplotListenersManager>@(o,e)subplotlayout(ax,e,fig)] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.builtinhelper.flip', 'C:\Program Files\MATLAB\R2019a\toolbox\matlab\elmat\+matlab\+internal\+builtinhelper\flip.m', 34)" style="font-weight:bold">matlab.internal.builtinhelper.flip</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2019a\toolbox\matlab\elmat\+matlab\+internal\+builtinhelper\flip.m',34,0)">line 34</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('flipud', 'C:\Program Files\MATLAB\R2019a\toolbox\matlab\elmat\flipud.m', 14)" style="font-weight:bold">flipud</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2019a\toolbox\matlab\elmat\flipud.m',14,0)">line 14</a>)
+  In matlab.graphics.illustration.Legend.autoUpdateCallback>processGroups
+  In matlab.graphics.illustration.Legend.autoUpdateCallback
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlabel', 'C:\Program Files\MATLAB\R2019a\toolbox\matlab\graph2d\xlabel.m', 56)" style="font-weight:bold">xlabel</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2019a\toolbox\matlab\graph2d\xlabel.m',56,0)">line 56</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OpenTRACK', 'C:\Users\Isaac\Documents\Lap Simulations\OpenTRACK.m', 596)" style="font-weight:bold">OpenTRACK</a> (<a href="matlab: opentoline('C:\Users\Isaac\Documents\Lap Simulations\OpenTRACK.m',596,0)">line 596</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'C:\Program Files\MATLAB\R2019a\toolbox\matlab\lang\run.m', 91)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2019a\toolbox\matlab\lang\run.m',91,0)">line 91</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('battery_simulator', 'C:\Users\Isaac\Documents\Lap Simulations\Battery Simulation\battery_simulator.m', 10)" style="font-weight:bold">battery_simulator</a> (<a href="matlab: opentoline('C:\Users\Isaac\Documents\Lap Simulations\Battery Simulation\battery_simulator.m',10,0)">line 10</a>)] 
+if system_dependent('IsDebugMode')==1, dbquit; end
 Plots created and saved.
 Track generated successfully.
 Map:
