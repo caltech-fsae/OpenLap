@@ -8,7 +8,7 @@ fclose('all') ;
 
 %% ----- CALTECH RACING FSAE MODS
 
-torqueFactor = 1;
+torqueFactor = 0.8;
 powerLimit = 80; %[KW]
 
 %% OpenLAP Laptime Simulation Project
@@ -157,7 +157,7 @@ en_speed_curve = table2array(data(:,1)) ; % [rpm]
 en_torque_curve = torqueFactor*table2array(data(:,2)) ; % [N*m]
 en_power_curve = en_torque_curve.*en_speed_curve*2*pi/60 ; % [W]
 
-en_power_curve(en_power_curve > powerLimit*1000) = powerLimit*1000;
+en_power_curve(en_power_curve > torqueFactor*1000) = torquefactor*1000;
 en_torque_curve = en_power_curve*60./(en_speed_curve*2*pi);
 
 % memory preallocation
